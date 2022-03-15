@@ -42,6 +42,7 @@ header {
     text-decoration: none;
     color: white;
     margin: 5px;
+   
 }
 
 .apresentacao {
@@ -107,3 +108,11 @@ table, td, th {
 table {
     text-align: center;
 }
+
+p {
+    position: relative;
+    margin-top: 0px;
+}
+ h2{
+     margin-bottom: 0px;
+ }
