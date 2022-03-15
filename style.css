@@ -1,0 +1,109 @@
+
+.home {
+    margin: 0%;
+    background-image: url(https://i.imgur.com/149o8ja.jpeg);
+    background-size: 110%;
+    background-position: cover;
+    
+}
+
+
+body {
+    margin: 0%;
+    background-color: rgb(28,191,222);
+}
+
+header {
+    background-color: black;
+    height: 150px;
+    
+}
+
+.logo {
+  
+  height: 100px;
+  width: 146px;
+  position: relative;
+}
+
+.logo {
+   
+    left: 50%;
+    margin-left: -72px;
+}
+
+.menu {
+    position: relative;
+    top: -10px;
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.apresentacao {
+    text-decoration: white ;
+    color: white;
+    position: relative;
+    margin-top: 200px;
+    margin-left: 100px;
+
+}
+
+h4 {
+    margin-top: 0px;
+}
+
+h1 {
+    margin-bottom: 10px;
+
+}
+
+.link2 {
+   color: white;
+}
+
+footer {
+    height: 50px;
+    background-color: black;
+    display: block;
+    color: white;
+    position: absolute;
+    bottom: -100px;
+    text-align: center;
+    width: 100%;
+}
+
+.rodape {
+    text-align: center;
+    position: relative;
+    top: 5px;
+
+
+}
+
+table, td, th {
+    border: 1px solid;
+  }
+  
+  table {
+    width: 40%;
+    border-collapse: collapse;
+
+  }
+
+.tabela {
+    position: relative;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 800px;
+    
+    
+    
+}
+table {
+    text-align: center;
+}
